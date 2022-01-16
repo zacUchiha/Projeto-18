@@ -23,8 +23,8 @@ function setup(){
 //crie uma tela
 
 // createCanvas(window,window);
-// createCanvas(windowWidth,windowHeight);
-// createCanvas(width,height);
+ createCanvas(windowWidth,windowHeight);
+// createCanvash,height);(widt
 // createCanvas(200,200);
 
 //plano de fundo se movendo
